@@ -12,3 +12,10 @@ Niccol
 * Altersfreigabe: FSK 12
 * Regie: Andrew Niccol
 * Musik: Michael Nyman
+
+> Ein elegisch erzählter Science-Fiction-Thriller als
+> anklagende Parabel über die die Menschlichkeit zerstörende
+> Gen-Manipulation. In verstörend schönen Bildern spannend
+> erzählt, konzentriert sich der Film ganz auf die zutiefst
+> menschliche Botschaft und die ausdrucksstarken Charaktere.
+Quelle: Lexikon des internationalen Films
