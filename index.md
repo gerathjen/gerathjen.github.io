@@ -20,6 +20,4 @@ Niccol
 > menschliche Botschaft und die ausdrucksstarken Charaktere.
 Quelle: Lexikon des internationalen Films
 
-<img
-src="https://de.wikipedia.org/wiki/Datei:Andrew_Niccol_by_Gage_Skidmore.jpg"
-/>
+<img src="https://de.wikipedia.org/wiki/Datei:Andrew_Niccol_by_Gage_Skidmore.jpg" />
